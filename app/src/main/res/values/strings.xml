@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project task</string>
+    <string name="kirjoita">Kirjoita....</string>
+    <string name="kuva">Kuva</string>
+</resources>
